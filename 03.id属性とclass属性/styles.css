@@ -1,3 +1,55 @@
 /* 6つのp要素に適用するスタイルを宣言 */
+.blue-white{
+    background-color: blue;
+    color: white;
+}
 
+.blue-yellow{
+    background-color: blue;
+    color: yellow;
+}
+
+.blue-red{
+    background-color: blue;
+    color: red;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
+.gray-yellow{
+    background-color: gray;
+    color: yellow;
+    font-size: 16px;
+}
+
+.gray-blue{
+    background-color: gray;
+    color: blue;
+    font-size: 16px;
+}
+
+.green-red{
+    background-color: green;
+    color: red;
+    font-size: 16px;
+}
+
+.green-blue{
+    background-color: green;
+    color: blue;
+    font-size: 16px;
+}
+
+.brown-yellow{
+    background-color: brown;
+    color:yellow;
+    font-size: 16px;
+}
+
+.brown-red{
+    background-color: brown;
+    color: red;
+}
+
+#small{
+    font-size: 12px;
+}
+
